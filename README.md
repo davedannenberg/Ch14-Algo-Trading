@@ -1,6 +1,6 @@
 # Ch14-Algo-Trading
 
-Baseline Data, Original SVC Model:
+Baseline Data (4 day, 100 day SMA), Original SVC Model:
 ![image](https://user-images.githubusercontent.com/85848524/135171594-92109721-f3d5-4049-9606-9d245446f562.png)
 
 Date Sliced (1/1/2018-1/1/2021), Original SVC Model:
