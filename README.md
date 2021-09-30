@@ -18,3 +18,5 @@ Baseline Data, AdaBoost Model:
 
 The AdaBoost model performed about the same as the baseline SVC model, with almost no noticeable difference in the chart.
 
+In conclusion, it appears that the early data (2015-2017) was limiting the accuracy of the model. Eliminating this and focusing only on the years 2018-2021 greatly increased the accuracy, and suggests that too much data can be a problem when training models, speaking to the importance of properly selecting the training data. Increasing and widening the simple moving averages turned out to decrease the model's accuracy, though the 50 and 200 day SMAs are commonly used in finance. Finally, using AdaBoost and maintaining the baseline data did not show any significant change in the model's accuracy, though perhaps a different classification model would have.
+
